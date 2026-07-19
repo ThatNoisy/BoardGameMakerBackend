@@ -1,1 +1,17 @@
+{
+  "name": "bgc-game-backend",
+  "version": "1.0.0",
+  "description": "Backend routing matrix engine for Unblocked Games BGC custom creator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
 
